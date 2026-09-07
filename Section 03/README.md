@@ -23,7 +23,7 @@
 ### Reading
 
 - **14. Important Notice About the Project**  
-  Important notes before continuing with the project.
+  At the time this lesson was recorded, Eclipse did not select the "module-info.java" option by default. Now Eclipse leaves it checked by default, and this file can cause problems throughout the course. Simply delete it if it gets created, or uncheck the **"Create module-info.java file"** option when creating a new project to avoid the issue.
 
 ---
 
