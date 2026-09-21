@@ -14,14 +14,20 @@
 - **13. Create Project**  
   Creating the first Java project in Eclipse.
 
-- **15-16. First Program #01**  
+- **15. First Program #01**  
   Writing and running the first Java program.
+
+- **16. First Program #02**  
+  Continuing the creation of the first Java program.
 
 - **17. Project Organization**  
   How to organize the project into packages for better structure and readability. See [Lesson 17](https://github.com/abdielpaulino/java-course/tree/main/Section%2003/Lesson%2017).
 
 - **18-19. Challenge — University Structure**  
   Challenge to design a package structure for a university system, followed by a possible solution. See [Lesson 18-19](https://github.com/abdielpaulino/java-course/tree/main/Section%2003/Lesson%2018-19).
+
+- **20. Comments — Types and Best Practices**  
+  Types of comments in Java and how/when to use each one. See [Lesson 20](https://github.com/abdielpaulino/java-course/tree/main/Section%2003/Lesson%2020).
 
 ### Reading
 
