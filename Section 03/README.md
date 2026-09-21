@@ -20,6 +20,9 @@
 - **16. First Program #02**  
   Continuing the creation of the first Java program.
 
+- **17. Project Organization**  
+  How to organize the project into packages for better structure and readability. See [Lesson 17](https://github.com/abdielpaulino/java-course/tree/main/Section%2003/Lesson%2017).
+
 ### Reading
 
 - **14. Important Notice About the Project**  
